@@ -1,0 +1,325 @@
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.exe
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.deps.json
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.runtimeconfig.json
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Controller.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.DB.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Controller.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.DB.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\CustomControls.VZControls.VZTextBox.resources
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Form1.resources
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Login.resources
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Properties.Resources.resources
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfo.cs
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CopyComplete
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\refint\AutoPark.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.genruntimeconfig.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\ref\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.exe
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\FastReport.Compat.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\FastReport.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\PdfiumViewer.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\nl\PdfiumViewer.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoController.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoController.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\bin\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncComboBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncMaskedTextBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncTextBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaMensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaPagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaRecebimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequeMensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequeRecebimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaPagarLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaReceberLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Mensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_MensalidadeLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_AgendaContato.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_CentroCusto.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Cliente.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_ContaBancaria.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_EditarVencimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Empresa.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_FormaDePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Fornecedor.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_NaturezaFinanceira.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_PerfilAcesso.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\PDV.VIEW.Forms.Cadastro.Financeiro.FCA_Talonario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Usuario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Veiculo.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_CancelaGeral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_Geral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_ServidorGeral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Mensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_AgendaContato.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_CentroCusto.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Cliente.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_ContaBancaria.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_FormaDePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Fornecedor.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_NaturezaFinanceira.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_PerfilAcesso.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Talonario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Usuario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Veiculo.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Controle.FCL_Cancela.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Seletores.SeletorMunicipio.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Seletores.SEL_Banco.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Inicial.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Login.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.Sobre.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CopyComplete
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\refint\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\AutoPark.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\AutoPark\obj\Debug\net6.0-windows\ref\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoPark.exe
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoPark.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoPark.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\FastReport.Compat.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\FastReport.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\PdfiumViewer.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\nl\PdfiumViewer.resources.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoController.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoController.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\bin\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncComboBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncMaskedTextBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\CustomControls.SyncControls.SyncTextBox.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaMensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaPagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_BaixaRecebimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequeMensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ChequeRecebimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaPagarLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_ContaReceberLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Mensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_MensalidadeLancamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCAFIN_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_AgendaContato.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_CentroCusto.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Cliente.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_ContaBancaria.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_EditarVencimento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Empresa.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_FormaDePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Fornecedor.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_NaturezaFinanceira.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_PerfilAcesso.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\PDV.VIEW.Forms.Cadastro.Financeiro.FCA_Talonario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Usuario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Cadastro.FCA_Veiculo.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_CancelaGeral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_Geral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Configuracoes.FCONFIG_ServidorGeral.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Mensalidade.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCOFIN_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_AgendaContato.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_CentroCusto.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Cliente.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_ContaBancaria.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_FormaDePagamento.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Fornecedor.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_NaturezaFinanceira.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_PerfilAcesso.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Talonario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Usuario.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Consultas.FCO_Veiculo.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Controle.FCL_Cancela.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_ContaPagar.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_ContaReceber.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_Entrada.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Relatorios.REL_Saida.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Seletores.SeletorMunicipio.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Forms.Seletores.SEL_Banco.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Inicial.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Login.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.Sobre.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.csproj.CopyComplete
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\refint\AutoPark.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\AutoPark.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\AutoPark\obj\Debug\net6.0-windows\ref\AutoPark.dll

@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.Form1.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\UTIL.csproj.CoreCompileInputs.cache

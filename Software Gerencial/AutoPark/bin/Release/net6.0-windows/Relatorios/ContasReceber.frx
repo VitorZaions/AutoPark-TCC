@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="11/05/2022 15:17:07" ReportInfo.Modified="11/05/2022 15:36:27" ReportInfo.CreatorVersion="2022.3.0.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="ContasReceber" ReferenceName="ContasReceber" DataType="null" Enabled="true">
+      <Column Name="IDContaReceber" DataType="System.Decimal"/>
+      <Column Name="Emissao" DataType="System.DateTime"/>
+      <Column Name="Vencimento" DataType="System.DateTime"/>
+      <Column Name="Origem" DataType="System.String"/>
+      <Column Name="Status" DataType="System.String"/>
+      <Column Name="ValorTotal" DataType="System.Decimal"/>
+      <Column Name="Cliente" DataType="System.String"/>
+    </BusinessObjectDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="56.7">
+      <TextObject Name="Text14" Left="9.45" Top="9.45" Width="500.85" Height="28.35" Text="AutoPark - Relatório de Contas a Receber" Font="Arial, 16pt, style=Bold"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="59.37" Width="718.2" Height="47.25">
+      <TextObject Name="Text2" Left="9.45" Width="94.5" Height="18.9" Text="Código" Font="Arial, 10pt"/>
+      <TextObject Name="Text4" Left="122.85" Width="132.3" Height="18.9" Text="Cliente" Font="Arial, 10pt"/>
+      <TextObject Name="Text6" Left="274.05" Width="122.85" Height="18.9" Text="Emissão" Font="Arial, 10pt"/>
+      <TextObject Name="Text8" Left="415.8" Width="94.5" Height="18.9" Text="Vencimento" Font="Arial, 10pt"/>
+      <TextObject Name="Text10" Left="529.2" Width="56.7" Height="18.9" Text="Status" Font="Arial, 10pt"/>
+      <TextObject Name="Text12" Left="604.8" Width="94.5" Height="18.9" Text="Valor Total" Font="Arial, 10pt"/>
+      <LineObject Name="Line1" Top="28.35" Width="718.2"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="109.28" Width="718.2" Height="37.8" DataSource="ContasReceber">
+      <TextObject Name="Text1" Left="9.45" Top="9.45" Width="94.5" Height="18.9" Text="[ContasReceber.IDContaReceber]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="0" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text3" Left="122.85" Top="9.45" Width="132.3" Height="18.9" Text="[ContasReceber.Cliente]" Font="Arial, 10pt"/>
+      <TextObject Name="Text5" Left="274.05" Top="9.45" Width="122.85" Height="18.9" Text="[ContasReceber.Emissao]" Format="Custom" Format.Format="MM/dd/yyyy HH:mm" Font="Arial, 10pt"/>
+      <TextObject Name="Text7" Left="415.8" Top="9.45" Width="94.5" Height="18.9" Text="[ContasReceber.Vencimento]" Format="Date" Format.Format="d" Font="Arial, 10pt"/>
+      <TextObject Name="Text9" Left="529.2" Top="9.45" Width="56.7" Height="18.9" Text="[ContasReceber.Status]" Font="Arial, 10pt"/>
+      <TextObject Name="Text11" Left="604.8" Top="9.45" Width="94.5" Height="18.9" Text="[ContasReceber.ValorTotal]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="149.75" Width="718.2" Height="18.9">
+      <TextObject Name="Text13" Left="661.5" Width="94.5" Height="18.9" Text="[Page#]" Font="Arial, 10pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

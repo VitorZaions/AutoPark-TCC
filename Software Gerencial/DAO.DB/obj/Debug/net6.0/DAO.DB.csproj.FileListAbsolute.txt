@@ -1,0 +1,36 @@
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.deps.json
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfo.cs
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\refint\DAO.DB.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\ref\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\bin\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\refint\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO.DB\obj\Debug\net6.0\ref\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\bin\Debug\net6.0\DAO.DB.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\bin\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\bin\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\refint\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO.DB\obj\Debug\net6.0\ref\DAO.DB.dll

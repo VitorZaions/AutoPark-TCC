@@ -1,0 +1,52 @@
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoUTIL.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoUTIL.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoController.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoController.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\bin\Debug\net6.0-windows\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\CustomControls.SyncControls.EditDecimalGuna2.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\LoadingScreen.Loading.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.MessageSync.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.CopyComplete
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\refint\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\AutoUTIL.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\UTIL\obj\Debug\net6.0-windows\ref\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoUTIL.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoUTIL.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoController.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoController.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\bin\Debug\net6.0-windows\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\CustomControls.SyncControls.EditDecimalGuna2.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\LoadingScreen.Loading.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.MessageSync.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.csproj.CopyComplete
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\refint\AutoUTIL.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\AutoUTIL.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\UTIL\obj\Debug\net6.0-windows\ref\AutoUTIL.dll

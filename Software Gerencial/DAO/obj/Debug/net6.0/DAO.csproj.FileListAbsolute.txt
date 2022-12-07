@@ -1,0 +1,24 @@
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\ref\DAO.dll

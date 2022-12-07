@@ -1,0 +1,32 @@
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\AutoDAO.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\AutoDAO.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\bin\Debug\net6.0\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\refint\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\AutoDAO.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\DAO\obj\Debug\net6.0\ref\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\bin\Debug\net6.0\AutoDAO.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\bin\Debug\net6.0\AutoDAO.runtimeconfig.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\bin\Debug\net6.0\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\bin\Debug\net6.0\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.Properties.Resources.resources
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\refint\AutoDAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\AutoDAO.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Software Gerencial\DAO\obj\Debug\net6.0\ref\AutoDAO.dll

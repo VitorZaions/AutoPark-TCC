@@ -1,0 +1,10 @@
+Sync Sistemas - Não foi possível encontrar o arquivo : App_Data/Start.ini - Object reference not set to an instance of an object.
+Sync Sistemas - Não foi possível encontrar o arquivo : App_Data/Start.ini - Object reference not set to an instance of an object.
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111
+Sync Sistemas - Falha na conexão com o banco de dados, id da conexão: -1111

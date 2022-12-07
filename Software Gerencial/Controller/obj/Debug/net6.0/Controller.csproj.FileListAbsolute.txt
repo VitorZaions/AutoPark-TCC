@@ -1,0 +1,34 @@
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.deps.json
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\refint\Controller.dll
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.pdb
+C:\Users\vitor\Documents\Visual Studio 2022\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\ref\Controller.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.deps.json
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\Controller.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.DB.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.DB.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\bin\Debug\net6.0\DAO.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\refint\Controller.dll
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\Controller.pdb
+C:\Users\vitor\Desktop\TCC\AutoPark\AutoParkTCC\Controller\obj\Debug\net6.0\ref\Controller.dll

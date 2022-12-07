@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Componentes\SyncComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Componentes\SyncMaskedTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Componentes\SyncTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_BaixaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_BaixaRecebimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ChequePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ChequeRecebimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ContaPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ContaPagarLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ContaReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_MensalidadeLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCAFIN_ContaReceberLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_AgendaContato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_CentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_ContaBancaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_EditarVencimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_FormaDePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_NaturezaFinanceira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_PerfilAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Talonario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Cadastros\FCA_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Configuracoes\FCONFIG_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Configuracoes\FCONFIG_ServidorGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCOFIN_ContaPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCOFIN_ContaReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_AgendaContato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_CentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_ContaBancaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_FormaDePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_NaturezaFinanceira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_PerfilAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_Talonario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FCO_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Relatorios\REL_Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Seletores\SeletorMunicipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Seletores\SEL_Banco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Forms\Cadastros\FCAFIN_BaixaPagamento.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
